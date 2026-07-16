@@ -1,0 +1,6 @@
+{
+  "name": "AgroLink",
+  "description": "Modern Instagram-style agricultural social network with AI support, Farmbook tracking, disease alarms, and real-time messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
